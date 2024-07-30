@@ -1,0 +1,123 @@
+{
+  "subscriptionTiers": [
+    {
+      "name": "Standard Account",
+      "cost": 0,
+      "eligibleSpend": 0,
+      "cashbackPercentage": 0,
+      "perkCount": 0
+    },
+    {
+      "name": "Starter",
+      "cost": 6.99,
+      "eligibleSpend": 250,
+      "cashbackPercentage": 3,
+      "perkCount": 1
+    },
+    {
+      "name": "Everyday",
+      "cost": 9.99,
+      "eligibleSpend": 500,
+      "cashbackPercentage": 3,
+      "perkCount": 2
+    },
+    {
+      "name": "Premium",
+      "cost": 19.99,
+      "eligibleSpend": 1000,
+      "cashbackPercentage": 3,
+      "perkCount": 3
+    }
+  ],
+  "stackingTiers": [
+    {
+      "name": "None",
+      "pluRequired": 0,
+      "cashbackPercentage": 0,
+      "perkCount": 0
+    },
+    {
+      "name": "Hero",
+      "pluRequired": 250,
+      "cashbackPercentage": 4,
+      "perkCount": 4
+    },
+    {
+      "name": "Veteran",
+      "pluRequired": 500,
+      "cashbackPercentage": 5,
+      "perkCount": 5
+    },
+    {
+      "name": "Legend",
+      "pluRequired": 1000,
+      "cashbackPercentage": 6,
+      "perkCount": 6
+    },
+    {
+      "name": "Myth",
+      "pluRequired": 1500,
+      "cashbackPercentage": 7,
+      "perkCount": 7
+    },
+    {
+      "name": "Goat",
+      "pluRequired": 2000,
+      "cashbackPercentage": 8,
+      "perkCount": 8
+    },
+    {
+      "name": "Honey Badger",
+      "pluRequired": 3000,
+      "cashbackPercentage": 9,
+      "perkCount": 9
+    }
+  ],
+  "eligibleSpendTiers": [
+    {
+      "name": "No Higher Cap",
+      "cost": 0,
+      "eligibleSpend": 0
+    },
+    {
+      "name": "1000",
+      "cost": 50,
+      "eligibleSpend": 1000
+    },
+    {
+      "name": "2000",
+      "cost": 100,
+      "eligibleSpend": 2000
+    },
+    {
+      "name": "5000",
+      "cost": 300,
+      "eligibleSpend": 5000
+    },
+    {
+      "name": "10000",
+      "cost": 500,
+      "eligibleSpend": 10000
+    }
+  ],
+  "metalTiers": [
+    {
+      "name": "Champion",
+      "cost": 249,
+      "duration": 3, 
+      "perkValue": 20
+    },
+    {
+      "name": "Master",
+      "cost": 649,
+      "duration": 6,
+      "perkValue": 30
+    },
+    {
+      "name": "Grandmaster",
+      "cost": 1249,
+      "duration": 12,
+      "perkValue": 50
+    }
+  ]
+}

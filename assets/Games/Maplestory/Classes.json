@@ -1,0 +1,259 @@
+{
+  "classes":[ 
+      {
+          "name": "Adele",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Angelic Buster",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Aran",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Ark",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Battle Mage",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Beast Tamer",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Beginner",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Bishop",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Blaster",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Blaze Wizard",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Bowmaster",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Buccaneer",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Cadena",
+          "flameStats": ["luk", "dex", "str", "att", "allstat"],
+          "flameType": "lukDoubleSecondary"
+        },
+        {
+          "name": "Cannoneer",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Corsair",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Dark Knight",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Dawn Warrior",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Demon Avenger",
+          "flameStats": ["da"],
+          "flameType": "da"
+        },
+        {
+          "name": "Demon Slayer",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Dual Blade",
+          "flameStats": ["luk", "dex", "str", "att", "allstat"],
+          "flameType": "lukDoubleSecondary"
+        },
+        {
+          "name": "Evan",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Fire Poison",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Hayato",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Hero",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Hoyoung",
+          "flameStats": ["luk", "dex", "att", "allstat"],
+          "flameType": "luk"
+        },
+        {
+          "name": "Ice Lightning",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Illium",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Jett",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Kain",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Kaiser",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Kanna",
+          "flameStats": ["int", "luk", "hp", "mp", "matt", "allstat"],
+          "flameType": "kanna"
+        },
+        {
+          "name": "Kinesis",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Lara",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Luminous",
+          "flameStats": ["int", "luk", "matt", "allstat"],
+          "flameType": "int"
+        },
+        {
+          "name": "Marksman",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Mechanic",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Mercedes",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Mihile",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Nightlord",
+          "flameStats": ["luk", "dex", "att", "allstat"],
+          "flameType": "luk"
+        },
+        {
+          "name": "Night Walker",
+          "flameStats": ["luk", "dex", "att", "allstat"],
+          "flameType": "luk"
+        },
+        {
+          "name": "Paladin",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Pathfinder",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Phantom",
+          "flameStats": ["luk", "dex", "att", "allstat"],
+          "flameType": "luk"
+        },
+        {
+          "name": "Shade",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Shadower",
+          "flameStats": ["luk", "dex", "str", "att", "allstat"],
+          "flameType": "lukDoubleSecondary"
+        },
+        {
+          "name": "Thunder Breaker",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Wild Hunter",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Wind Archer",
+          "flameStats": ["dex", "str", "att", "allstat"],
+          "flameType": "dex"
+        },
+        {
+          "name": "Xenon",
+          "flameStats": ["luk", "dex", "str", "att", "allstat"],
+          "flameType": "xenon"
+        },
+        {
+          "name": "Zero",
+          "flameStats": ["str", "dex", "att", "allstat"],
+          "flameType": "str"
+        },
+        {
+          "name": "Khali",
+          "flameStats": ["luk", "dex", "att", "allstat"],
+          "flameType": "luk"
+        }
+  ]
+}

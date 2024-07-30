@@ -1,0 +1,12 @@
+{
+  "promos": [
+    {
+      "id": 0,
+      "name": "Yearly Subscription Payments",
+      "date": "Permanent Feature",
+      "description": "Pay your subscription on a yearly basis and get 2 months of your subscription for free.",
+      "termsLink": "https://www.plutus.it/help/annualsubscriptions",
+      "enabled": false
+    }
+  ]
+}

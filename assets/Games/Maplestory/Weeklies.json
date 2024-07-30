@@ -1,0 +1,215 @@
+{
+    "version": "6.4",
+    "weeklyBosses":[   
+        {
+            "name": "Chaos Pink Bean",
+            "image": "Weeklies/ChaosPinkBean.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Hard Hilla",
+            "image": "Weeklies/HardHilla.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },     
+        {
+            "name": "Cygnus",
+            "image": "Weeklies/Cygnus.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Chaos Zakum",
+            "image": "Weeklies/ChaosZakum.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Princess No",
+            "image": "Weeklies/PrincessNo.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Chaos Crimson Queen",
+            "image": "Weeklies/ChaosCrimsonQueen.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Chaos Pierre",
+            "image": "Weeklies/ChaosPierre.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Chaos Von Bon",
+            "image": "Weeklies/ChaosVonBon.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Chaos Vellum",
+            "image": "Weeklies/ChaosVellum.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Akechi Mitsuhide",
+            "image": "Weeklies/AkechiMitsuhide.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Hard Magnus",
+            "image": "Weeklies/HardMagnus.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Chaos Papulatus",
+            "image": "Weeklies/ChaosPapulatus.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Lotus",
+            "image": "Weeklies/Lotus.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Damien",
+            "image": "Weeklies/Damien.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Guardian Angel Slime",
+            "image": "Weeklies/GuardianAngelSlime.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Lucid",
+            "image": "Weeklies/Lucid.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Will",
+            "image": "Weeklies/Will.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Gloom",
+            "image": "Weeklies/Gloom.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Verus Hilla",
+            "image": "Weeklies/VerusHilla.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Darknell",
+            "image": "Weeklies/Darknell.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        }
+    ],
+    "weeklyTasks":[
+        {
+            "name": "Guild Buff",
+            "image": "Weeklies/GuildBuff.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Scrapyard",
+            "image": "Weeklies/Scrapyard.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Dark World Tree",
+            "image": "Weeklies/Dark World Tree.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Mu Lung Dojo",
+            "image": "Weeklies/MuLungDojo.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Kritias",
+            "image": "Weeklies/Kritias.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Black Bean Capping",
+            "image": "Dailies/Event/OnAir/BlackBean.png",
+            "done": false,
+            "enabled": true,
+            "type": "event",
+            "dispCon": "new Date().getTime() > 1637193599000 && new Date().getTime() < 1644364799000"
+        }
+    ]
+}

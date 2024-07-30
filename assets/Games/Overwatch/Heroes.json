@@ -1,0 +1,136 @@
+{
+    "heroes":[ 
+        {
+            "name": "Ana",
+            "image": "Ana.png"
+        },
+        {
+            "name": "Ashe",
+            "image": "Ashe.png"
+        },
+        {
+            "name": "Baptiste",
+            "image": "Baptiste.png"
+        },
+        {
+            "name": "Bastion",
+            "image": "Bastion.png"
+        },
+        {
+            "name": "Brigitte",
+            "image": "Brigitte.png"
+        },
+        {
+            "name": "D.Va",
+            "image": "Dva.png"
+        },
+        {
+            "name": "Doomfist",
+            "image": "Doomfist.png"
+        },
+        {
+            "name": "Echo",
+            "image": "Echo.png"
+        },
+        {
+            "name": "Genji",
+            "image": "Genji.png"
+        }
+        ,
+        {
+            "name": "Hanzo",
+            "image": "Hanzo.png"
+        }
+        ,
+        {
+            "name": "Junkrat",
+            "image": "Junkrat.png"
+        }
+        ,
+        {
+            "name": "Lúcio",
+            "image": "Lucio.png"
+        }
+        ,
+        {
+            "name": "Mccree",
+            "image": "Mccree.png"
+        },
+        {
+            "name": "Mei",
+            "image": "Mei.png"
+        },
+        {
+            "name": "Mercy",
+            "image": "Mercy.png"
+        },
+        {
+            "name": "Moira",
+            "image": "Moira.png"
+        },
+        {
+            "name": "Orisa",
+            "image": "Orisa.png"
+        },
+        {
+            "name": "Pharah",
+            "image": "Pharah.png"
+        },
+        {
+            "name": "Reaper",
+            "image": "Reaper.png"
+        },
+        {
+            "name": "Reinhardt",
+            "image": "Reinhardt.png"
+        },
+        {
+            "name": "Roadhog",
+            "image": "Roadhog.png"
+        },
+        {
+            "name": "Sigma",
+            "image": "Sigma.png"
+        },
+        {
+            "name": "Soldier: 76",
+            "image": "Soldier76.png"
+        },
+        {
+            "name": "Sombra",
+            "image": "Sombra.png"
+        },
+        {
+            "name": "Symmetra",
+            "image": "Symmetra.png"
+        },
+        {
+            "name": "Torbjörn",
+            "image": "Torbjorn.png"
+        },
+        {
+            "name": "Tracer",
+            "image": "Tracer.png"
+        },
+        {
+            "name": "Widowmaker",
+            "image": "Widowmaker.png"
+        },
+        {
+            "name": "Winston",
+            "image": "Winston.png"
+        },
+        {
+            "name": "Wrecking Ball",
+            "image": "WreckingBall.png"
+        },
+        {
+            "name": "Zarya",
+            "image": "Zarya.png"
+        },
+        {
+            "name": "Zenyatta",
+            "image": "Zenyatta.png"
+        }
+    ]
+}

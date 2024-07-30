@@ -1,0 +1,265 @@
+{
+    "version": "6.3",
+    "dailyBosses":[ 
+        {
+            "name": "Zakum",
+            "image": "Dailies/Zakum.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Horntail",
+            "image": "Dailies/Horntail.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Hilla",
+            "image": "Dailies/Hilla.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Crimson Queen",
+            "image": "Dailies/CrimsonQueen.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Pierre",
+            "image": "Dailies/Pierre.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Von Bon",
+            "image": "Dailies/VonBon.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Vellum",
+            "image": "Dailies/Vellum.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Von Leon",
+            "image": "Dailies/VonLeon.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Arkarium",
+            "image": "Dailies/Arkarium.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Magnus",
+            "image": "Dailies/Magnus.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Pink Bean",
+            "image": "Dailies/PinkBean.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Mori Ranmaru",
+            "image": "Dailies/MoriRanmaru.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Papulatus",
+            "image": "Dailies/Papulatus.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Gollux",
+            "image": "Dailies/Gollux.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Julieta",
+            "image": "Dailies/Julieta.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "OMNI-CLN",
+            "image": "Dailies/OMNI-CLN.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        }
+    ],
+    "dailyTasks":[
+        {
+            "name": "Monster Park",
+            "image": "Dailies/MonsterPark.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Ursus",
+            "image": "Dailies/Ursus.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Maple Tour",
+            "image": "Dailies/MapleTour.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Legion",
+            "image": "Dailies/Legion.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Daily Gift",
+            "image": "Dailies/DailyGift.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Commerci",
+            "image": "Dailies/Commerci.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Phantom Forest",
+            "image": "Dailies/PhantomForest.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Yu Garden",
+            "image": "Dailies/YuGarden.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Pink Bean Capping",
+            "image": "Dailies/Event/OnAir/PinkBean.png",
+            "done": false,
+            "enabled": true,
+            "type": "event",
+            "dispCon": "new Date().getTime() > 1637193599000 && new Date().getTime() < 1644364799000"
+        },
+        {
+            "name": "Subscriber Capping",
+            "image": "Dailies/Event/OnAir/Subscribers.png",
+            "done": false,
+            "enabled": true,
+            "type": "event",
+            "dispCon": "new Date().getTime() > 1637193599000 && new Date().getTime() < 1644364799000"
+        }
+    ],
+    "dailyArcaneRiver":[
+        {
+            "name": "Vanishing Journey Dailies",
+            "image": "Dailies/VanishingJourney.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Chu Chu Dailies",
+            "image": "Dailies/ChuChu.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Lachelein Dailies",
+            "image": "Dailies/Lachelein.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Arcana Dailies",
+            "image": "Dailies/Arcana.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Morass Dailies",
+            "image": "Dailies/Morass.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        },
+        {
+            "name": "Esfera Dailies",
+            "image": "Dailies/Esfera.png",
+            "done": false,
+            "enabled": true,
+            "type": "default",
+            "dispCon": "true"
+        }
+    ]
+}

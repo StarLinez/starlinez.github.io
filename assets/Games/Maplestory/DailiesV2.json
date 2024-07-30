@@ -1,0 +1,326 @@
+{
+    "version": "9.6",
+    "imagePrefix": "MapleDailies/",
+    "taskGroups": [
+        {
+            "title": "Daily Bosses",
+            "tasks": [
+                {
+                    "name": "Zakum",
+                    "image": "Zakum.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Horntail",
+                    "image": "Horntail.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Hilla",
+                    "image": "Hilla.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Crimson Queen",
+                    "image": "CrimsonQueen.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Pierre",
+                    "image": "Pierre.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Von Bon",
+                    "image": "VonBon.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Vellum",
+                    "image": "Vellum.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Von Leon",
+                    "image": "VonLeon.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Arkarium",
+                    "image": "Arkarium.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Magnus",
+                    "image": "Magnus.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Pink Bean",
+                    "image": "PinkBean.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Mori Ranmaru",
+                    "image": "MoriRanmaru.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Papulatus",
+                    "image": "Papulatus.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Gollux",
+                    "image": "Gollux.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "OMNI-CLN",
+                    "image": "OMNI-CLN.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled":false
+        },
+        {
+            "title": "Daily Tasks",
+            "tasks": [
+                {
+                    "name": "Monster Park",
+                    "image": "MonsterPark.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Ursus",
+                    "image": "Ursus.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Maple Tour",
+                    "image": "MapleTour.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Legion",
+                    "image": "Legion.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Daily Gift",
+                    "image": "DailyGift.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Commerci",
+                    "image": "Commerci.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Phantom Forest",
+                    "image": "PhantomForest.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Yu Garden",
+                    "image": "YuGarden.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled":false
+        },
+        {
+            "title": "Arcane River Dailies",
+            "tasks": [
+                {
+                    "name": "Vanishing Journey Daily",
+                    "image": "VanishingJourney.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chu Chu Daily",
+                    "image": "ChuChu.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Lachelein Daily",
+                    "image": "Lachelein.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Arcana Daily",
+                    "image": "Arcana.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Morass Daily",
+                    "image": "Morass.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Esfera Daily",
+                    "image": "Esfera.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Tenebris  Research",
+                    "image": "Tenebris.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled":false
+        },
+        {
+            "title": "Grandis Dailies",
+            "tasks": [
+                {
+                    "name": "Cernium Daily",
+                    "image": "Cernium.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Arcus Daily",
+                    "image": "Arcus.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Odium Daily",
+                    "image": "Odium.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Shangri-La Daily",
+                    "image": "ShangriLa.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Arteria Daily",
+                    "image": "Arteria.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"  
+                },
+                {
+                    "name": "Carcion Daily",
+                    "image": "Carcion.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"  
+                },
+                {
+                    "name": "Erda's Request",
+                    "image": "ErdasRequest.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled":false
+        }
+    ]
+}

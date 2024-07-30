@@ -1,0 +1,160 @@
+{
+    "stackingTiers": [
+      {
+        "name": "None",
+        "pluRequired": 0,
+        "cashbackPercentage": 0,
+        "cryRate": 0,
+        "perkCount": 0,
+        "stackablePerkCount": 0,
+        "freePayouts": 0,
+        "doubleRewards": 0,
+        "directDebitRewards": 0,
+        "goldenTickets": 0
+      },
+      {
+        "name": "Noob",
+        "pluRequired": 1,
+        "cashbackPercentage": 3,
+        "cryRate": 1,
+        "perkCount": 0,
+        "stackablePerkCount": 0,
+        "freePayouts": 0,
+        "doubleRewards": 1,
+        "directDebitRewards": 1,
+        "goldenTickets": 1
+      },
+      {
+        "name": "Researcher",
+        "pluRequired": 100,
+        "cashbackPercentage": 3,
+        "cryRate": 1,
+        "perkCount": 0,
+        "stackablePerkCount": 0,
+        "freePayouts": 1,
+        "doubleRewards": 1,
+        "directDebitRewards": 1,
+        "goldenTickets": 1
+      },
+      {
+        "name": "Explorer",
+        "pluRequired": 200,
+        "cashbackPercentage": 3,
+        "cryRate": 2,
+        "perkCount": 0,
+        "stackablePerkCount": 1,
+        "freePayouts": 1,
+        "doubleRewards": 1,
+        "directDebitRewards": 1,
+        "goldenTickets": 1
+      },
+      {
+        "name": "Adventurer",
+        "pluRequired": 300,
+        "cashbackPercentage": 3,
+        "cryRate": 3,
+        "perkCount": 1,
+        "stackablePerkCount": 1,
+        "freePayouts": 1,
+        "doubleRewards": 1,
+        "directDebitRewards": 1,
+        "goldenTickets": 1
+      },
+      {
+        "name": "Chad",
+        "pluRequired": 1000,
+        "cashbackPercentage": 3,
+        "cryRate": 3,
+        "perkCount": 3,
+        "stackablePerkCount": 3,
+        "freePayouts": 3,
+        "doubleRewards": 3,
+        "directDebitRewards": 3,
+        "goldenTickets": 3
+      },
+      {
+        "name": "Hero",
+        "pluRequired": 2000,
+        "cashbackPercentage": 4,
+        "cryRate": 4,
+        "perkCount": 4,
+        "stackablePerkCount": 4,
+        "freePayouts": 4,
+        "doubleRewards": 4,
+        "directDebitRewards": 4,
+        "goldenTickets": 4
+      },
+      {
+        "name": "Veteran",
+        "pluRequired": 3000,
+        "cashbackPercentage": 5,
+        "cryRate": 5,
+        "perkCount": 5,
+        "stackablePerkCount": 5,
+        "freePayouts": 5,
+        "doubleRewards": 5,
+        "directDebitRewards": 5,
+        "goldenTickets": 5
+      },
+      {
+        "name": "Legend",
+        "pluRequired": 10000,
+        "cashbackPercentage": 6,
+        "cryRate": 6,
+        "perkCount": 6,
+        "stackablePerkCount": 6,
+        "freePayouts": 6,
+        "doubleRewards": 6,
+        "directDebitRewards": 6,
+        "goldenTickets": 6
+      },
+      {
+        "name": "Myth",
+        "pluRequired": 20000,
+        "cashbackPercentage": 7,
+        "cryRate": 7,
+        "perkCount": 7,
+        "stackablePerkCount": 7,
+        "freePayouts": 7,
+        "doubleRewards": 7,
+        "directDebitRewards": 7,
+        "goldenTickets": 7
+      },
+      {
+        "name": "Goat",
+        "pluRequired": 30000,
+        "cashbackPercentage": 8,
+        "cryRate": 8,
+        "perkCount": 8,
+        "stackablePerkCount": 8,
+        "freePayouts": 8,
+        "doubleRewards": 8,
+        "directDebitRewards": 8,
+        "goldenTickets": 8
+      },
+      {
+        "name": "Honey Badger",
+        "pluRequired": 40000,
+        "cashbackPercentage": 9,
+        "cryRate": 9,
+        "perkCount": 9,
+        "stackablePerkCount": 9,
+        "freePayouts": 9,
+        "doubleRewards": 9,
+        "directDebitRewards": 9,
+        "goldenTickets": 9
+      },
+      {
+        "name": "Titan",
+        "pluRequired": 50000,
+        "cashbackPercentage": 10,
+        "cryRate": 10,
+        "perkCount": 10,
+        "stackablePerkCount": 10,
+        "freePayouts": 10,
+        "doubleRewards": 10,
+        "directDebitRewards": 10,
+        "goldenTickets": 10
+      }
+    ]
+  }
