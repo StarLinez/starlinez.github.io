@@ -1,0 +1,307 @@
+{
+    "version": "9.3",
+    "imagePrefix": "MapleWeeklies/",
+    "taskGroups": [
+        {
+            "title": "Weekly Bosses",
+            "image": "test",
+            "tasks": [
+                {
+                    "name": "Chaos Pink Bean",
+                    "image": "ChaosPinkBean.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Hard Hilla",
+                    "image": "HardHilla.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Cygnus",
+                    "image": "Cygnus.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Zakum",
+                    "image": "ChaosZakum.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Princess No",
+                    "image": "PrincessNo.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Crimson Queen",
+                    "image": "ChaosCrimsonQueen.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Pierre",
+                    "image": "ChaosPierre.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Von Bon",
+                    "image": "ChaosVonBon.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Vellum",
+                    "image": "ChaosVellum.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Akechi Mitsuhide",
+                    "image": "AkechiMitsuhide.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Hard Magnus",
+                    "image": "HardMagnus.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Chaos Papulatus",
+                    "image": "ChaosPapulatus.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Lotus",
+                    "image": "Lotus.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Damien",
+                    "image": "Damien.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Guardian Angel Slime",
+                    "image": "GuardianAngelSlime.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Lucid",
+                    "image": "Lucid.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Will",
+                    "image": "Will.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Gloom",
+                    "image": "Gloom.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Verus Hilla",
+                    "image": "VerusHilla.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Darknell",
+                    "image": "Darknell.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Seren",
+                    "image": "Seren.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Kaling",
+                    "image": "Kaling.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled": false
+        },
+        {
+            "title": "Weekly Tasks",
+            "image": "test",
+            "tasks": [
+                {
+                    "name": "Guild Buff",
+                    "image": "GuildBuff.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Scrapyard",
+                    "image": "Scrapyard.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Dark World Tree",
+                    "image": "Dark World Tree.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Mu Lung Dojo",
+                    "image": "MuLungDojo.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Kritias",
+                    "image": "Kritias.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Flag Race",
+                    "image": "FlagRace.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Sharenian Culvert",
+                    "image": "SharenianCulvert.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled": false
+        },
+        {
+            "title": "Arcane River Weeklies",
+            "image": "test",
+            "tasks": [
+                {
+                    "name": "Erda Spectrum",
+                    "image": "ErdaSpectrum.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Hungry Muto",
+                    "image": "HungryMuto.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Midnight Chaser",
+                    "image": "MidnightChaser.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Spirit Saviour",
+                    "image": "SpiritSaviour.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Ranheim Defense",
+                    "image": "RanheimDefense.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Esfera Guardian",
+                    "image": "EsferaGuardian.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled": false
+        }
+    ]
+}
