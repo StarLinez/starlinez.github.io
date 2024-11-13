@@ -1,5 +1,5 @@
 {
-    "version": "9.5",
+    "version": "9.6",
     "imagePrefix": "MapleDailies/",
     "taskGroups": [
         {
@@ -160,14 +160,6 @@
                 {
                     "name": "Maple Tour",
                     "image": "MapleTour.png",
-                    "done": false,
-                    "enabled": true,
-                    "type": "default",
-                    "dispCon": "true"
-                },
-                {
-                    "name": "Legion",
-                    "image": "Legion.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",

@@ -1,5 +1,5 @@
 {
-    "version": "9.3",
+    "version": "9.4",
     "imagePrefix": "MapleWeeklies/",
     "taskGroups": [
         {
@@ -224,6 +224,14 @@
                 {
                     "name": "Kritias",
                     "image": "Kritias.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Legion",
+                    "image": "Legion.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
