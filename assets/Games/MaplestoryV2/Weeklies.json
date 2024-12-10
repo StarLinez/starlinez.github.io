@@ -1,14 +1,14 @@
 {
-    "version": "9.4",
-    "imagePrefix": "MapleWeeklies/",
+    "version": "10.1",
+    "imagePrefix": "Weekly/",
     "taskGroups": [
         {
             "title": "Weekly Bosses",
-            "image": "test",
+            "image": "WeeklyBosses.png",
             "tasks": [
                 {
                     "name": "Chaos Pink Bean",
-                    "image": "ChaosPinkBean.png",
+                    "image": "CPB.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -16,7 +16,7 @@
                 },
                 {
                     "name": "Hard Hilla",
-                    "image": "HardHilla.png",
+                    "image": "HHilla.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -32,7 +32,7 @@
                 },
                 {
                     "name": "Chaos Zakum",
-                    "image": "ChaosZakum.png",
+                    "image": "CZak.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -40,15 +40,15 @@
                 },
                 {
                     "name": "Princess No",
-                    "image": "PrincessNo.png",
+                    "image": "PNO.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
                     "dispCon": "true"
                 },
                 {
-                    "name": "Chaos Crimson Queen",
-                    "image": "ChaosCrimsonQueen.png",
+                    "name": "Chaos Crimson Queen",
+                    "image": "CCrimsonQueen.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -56,7 +56,7 @@
                 },
                 {
                     "name": "Chaos Pierre",
-                    "image": "ChaosPierre.png",
+                    "image": "CPierre.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -64,7 +64,7 @@
                 },
                 {
                     "name": "Chaos Von Bon",
-                    "image": "ChaosVonBon.png",
+                    "image": "CVonBon.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -72,7 +72,7 @@
                 },
                 {
                     "name": "Chaos Vellum",
-                    "image": "ChaosVellum.png",
+                    "image": "CVellum.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -80,7 +80,7 @@
                 },
                 {
                     "name": "Akechi Mitsuhide",
-                    "image": "AkechiMitsuhide.png",
+                    "image": "Akechi.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -88,7 +88,7 @@
                 },
                 {
                     "name": "Hard Magnus",
-                    "image": "HardMagnus.png",
+                    "image": "HMagnus.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -96,7 +96,7 @@
                 },
                 {
                     "name": "Chaos Papulatus",
-                    "image": "ChaosPapulatus.png",
+                    "image": "CPap.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -120,7 +120,7 @@
                 },
                 {
                     "name": "Guardian Angel Slime",
-                    "image": "GuardianAngelSlime.png",
+                    "image": "GuardianSlime.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -175,6 +175,14 @@
                     "dispCon": "true"
                 },
                 {
+                    "name": "Kalos",
+                    "image": "Kalos.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
                     "name": "Kaling",
                     "image": "Kaling.png",
                     "done": false,
@@ -186,17 +194,9 @@
             "allDisabled": false
         },
         {
-            "title": "Weekly Tasks",
-            "image": "test",
+            "title": "Monday Reset",
+            "image": "MondayReset.png",
             "tasks": [
-                {
-                    "name": "Guild Buff",
-                    "image": "GuildBuff.png",
-                    "done": false,
-                    "enabled": true,
-                    "type": "default",
-                    "dispCon": "true"
-                },
                 {
                     "name": "Scrapyard",
                     "image": "Scrapyard.png",
@@ -207,7 +207,7 @@
                 },
                 {
                     "name": "Dark World Tree",
-                    "image": "Dark World Tree.png",
+                    "image": "DWT.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -215,7 +215,7 @@
                 },
                 {
                     "name": "Mu Lung Dojo",
-                    "image": "MuLungDojo.png",
+                    "image": "Dojo.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -237,29 +237,6 @@
                     "type": "default",
                     "dispCon": "true"
                 },
-                {
-                    "name": "Flag Race",
-                    "image": "FlagRace.png",
-                    "done": false,
-                    "enabled": true,
-                    "type": "default",
-                    "dispCon": "true"
-                },
-                {
-                    "name": "Sharenian Culvert",
-                    "image": "SharenianCulvert.png",
-                    "done": false,
-                    "enabled": true,
-                    "type": "default",
-                    "dispCon": "true"
-                }
-            ],
-            "allDisabled": false
-        },
-        {
-            "title": "Arcane River Weeklies",
-            "image": "test",
-            "tasks": [
                 {
                     "name": "Erda Spectrum",
                     "image": "ErdaSpectrum.png",
@@ -303,6 +280,37 @@
                 {
                     "name": "Esfera Guardian",
                     "image": "EsferaGuardian.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                }
+            ],
+            "allDisabled": false
+        },
+        {
+            "title": "Thursday Reset",
+            "image": "ThursdayReset.png",
+            "tasks": [
+                {
+                    "name": "Guild Buff",
+                    "image": "GBuff.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Sharenian Culvert",
+                    "image": "Culvert.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Flag Race",
+                    "image": "Flag.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",

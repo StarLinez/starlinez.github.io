@@ -1,6 +1,6 @@
 {
-    "version": "9.6",
-    "imagePrefix": "MapleDailies/",
+    "version": "10.0",
+    "imagePrefix": "Daily/",
     "taskGroups": [
         {
             "title": "Daily Bosses",
@@ -8,7 +8,7 @@
             "tasks": [
                 {
                     "name": "Zakum",
-                    "image": "Zakum.png",
+                    "image": "Zak.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -16,7 +16,7 @@
                 },
                 {
                     "name": "Horntail",
-                    "image": "Horntail.png",
+                    "image": "HT.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -64,7 +64,7 @@
                 },
                 {
                     "name": "Von Leon",
-                    "image": "VonLeon.png",
+                    "image": "VL.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -72,7 +72,7 @@
                 },
                 {
                     "name": "Arkarium",
-                    "image": "Arkarium.png",
+                    "image": "Ark.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -88,7 +88,7 @@
                 },
                 {
                     "name": "Pink Bean",
-                    "image": "PinkBean.png",
+                    "image": "PB.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -135,7 +135,7 @@
             "tasks": [
                 {
                     "name": "Monster Park Regular",
-                    "image": "MonsterPark.png",
+                    "image": "MP.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -196,12 +196,20 @@
                     "enabled": true,
                     "type": "default",
                     "dispCon": "true"
+                },
+                {
+                    "name": "Event",
+                    "image": "Event.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
                 }
             ],
             "allDisabled":false
         },
         {
-            "title": "Arcane River Dailies",
+            "title": "Arcane & Grandis Dailies",
             "image": "DailySymbols.png",
             "tasks": [
                 {
@@ -275,14 +283,7 @@
                     "enabled": true,
                     "type": "default",
                     "dispCon": "true"
-                }
-            ],
-            "allDisabled":false
-        },
-        {
-            "title": "Grandis Dailies",
-            "image": "test",
-            "tasks": [
+                },
                 {
                     "name": "Cernium",
                     "image": "Cernium.png",
@@ -339,6 +340,7 @@
                     "type": "default",
                     "dispCon": "true"
                 }
+                
             ],
             "allDisabled":false
         }
