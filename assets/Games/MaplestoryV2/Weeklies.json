@@ -1,5 +1,5 @@
 {
-    "version": "10.1",
+    "version": "10.2",
     "imagePrefix": "Weekly/",
     "taskGroups": [
         {
@@ -311,6 +311,14 @@
                 {
                     "name": "Flag Race",
                     "image": "Flag.png",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Cache of Greed",
+                    "image": "CacheOfGreed.png",
                     "done": false,
                     "enabled": true,
                     "type": "default",
