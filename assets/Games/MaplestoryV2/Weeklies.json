@@ -1,17 +1,17 @@
 {
-    "version": "1.0",
+    "version": "2.0",
     "imagePrefix": "Weekly/",
     "infoTitle": "The weekly tracker has been updated!",
-    "infoText": "Welcome to the new version of the weeklies tracker.\n A lot of effort was spent on it so I hope you enjoy it!\n\nUnfortunately existing data could not easily be moved over, so you will have to reconfigure everything.\n\nIf you run into any issues or want to share feedback, feel free to contact me on discord username: starlines",
+    "infoText": "Welcome to the new version of the weeklies tracker.\n A lot of effort was spent on it so I hope you enjoy it!\n\nUnfortunately existing data could not easily be moved over, so you will have to reconfigure everything.\n\nIf you run into any issues or want to share feedback, feel free to contact me on discord username: starlines\n\nYou can still view the old version for about a week incase you want to move over progress of the last week: starlinez.github.io/games/maplestory/oldweeklies",
     "infoVisible": true,
     "taskGroups": [
         {
             "title": "Weekly Bosses",
-            "image": "WeeklyBosses.png",
+            "image": "WeeklyBosses",
             "tasks": [
                 {
                     "name": "Chaos Pink Bean",
-                    "image": "CPB.png",
+                    "image": "CPB",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -19,7 +19,7 @@
                 },
                 {
                     "name": "Hard Hilla",
-                    "image": "HHilla.png",
+                    "image": "HHilla",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -27,7 +27,7 @@
                 },
                 {
                     "name": "Cygnus",
-                    "image": "Cygnus.png",
+                    "image": "Cygnus",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -35,7 +35,7 @@
                 },
                 {
                     "name": "Chaos Zakum",
-                    "image": "CZak.png",
+                    "image": "CZak",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -43,7 +43,7 @@
                 },
                 {
                     "name": "Princess No",
-                    "image": "PNO.png",
+                    "image": "PNO",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -51,7 +51,7 @@
                 },
                 {
                     "name": "Chaos Crimson Queen",
-                    "image": "CCrimsonQueen.png",
+                    "image": "CCrimsonQueen",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -59,7 +59,7 @@
                 },
                 {
                     "name": "Chaos Pierre",
-                    "image": "CPierre.png",
+                    "image": "CPierre",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -67,7 +67,7 @@
                 },
                 {
                     "name": "Chaos Von Bon",
-                    "image": "CVonBon.png",
+                    "image": "CVonBon",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -75,7 +75,7 @@
                 },
                 {
                     "name": "Chaos Vellum",
-                    "image": "CVellum.png",
+                    "image": "CVellum",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -83,7 +83,7 @@
                 },
                 {
                     "name": "Akechi Mitsuhide",
-                    "image": "Akechi.png",
+                    "image": "Akechi",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -91,7 +91,7 @@
                 },
                 {
                     "name": "Hard Magnus",
-                    "image": "HMagnus.png",
+                    "image": "HMagnus",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -99,7 +99,7 @@
                 },
                 {
                     "name": "Chaos Papulatus",
-                    "image": "CPap.png",
+                    "image": "CPap",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -107,7 +107,7 @@
                 },
                 {
                     "name": "Lotus",
-                    "image": "Lotus.png",
+                    "image": "Lotus",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -115,7 +115,7 @@
                 },
                 {
                     "name": "Damien",
-                    "image": "Damien.png",
+                    "image": "Damien",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -123,7 +123,7 @@
                 },
                 {
                     "name": "Guardian Angel Slime",
-                    "image": "GuardianSlime.png",
+                    "image": "GuardianSlime",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -131,7 +131,7 @@
                 },
                 {
                     "name": "Lucid",
-                    "image": "Lucid.png",
+                    "image": "Lucid",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -139,7 +139,7 @@
                 },
                 {
                     "name": "Will",
-                    "image": "Will.png",
+                    "image": "Will",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -147,7 +147,7 @@
                 },
                 {
                     "name": "Gloom",
-                    "image": "Gloom.png",
+                    "image": "Gloom",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -155,7 +155,7 @@
                 },
                 {
                     "name": "Verus Hilla",
-                    "image": "VerusHilla.png",
+                    "image": "VerusHilla",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -163,7 +163,7 @@
                 },
                 {
                     "name": "Darknell",
-                    "image": "Darknell.png",
+                    "image": "Darknell",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -171,7 +171,7 @@
                 },
                 {
                     "name": "Seren",
-                    "image": "Seren.png",
+                    "image": "Seren",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -179,7 +179,7 @@
                 },
                 {
                     "name": "Kalos",
-                    "image": "Kalos.png",
+                    "image": "Kalos",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -187,7 +187,7 @@
                 },
                 {
                     "name": "Kaling",
-                    "image": "Kaling.png",
+                    "image": "Kaling",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -198,11 +198,11 @@
         },
         {
             "title": "Monday Reset",
-            "image": "MondayReset.png",
+            "image": "MondayReset",
             "tasks": [
                 {
                     "name": "Scrapyard",
-                    "image": "Scrapyard.png",
+                    "image": "Scrapyard",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -210,7 +210,7 @@
                 },
                 {
                     "name": "Dark World Tree",
-                    "image": "DWT.png",
+                    "image": "DWT",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -218,7 +218,7 @@
                 },
                 {
                     "name": "Mu Lung Dojo",
-                    "image": "Dojo.png",
+                    "image": "Dojo",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -226,7 +226,7 @@
                 },
                 {
                     "name": "Kritias",
-                    "image": "Kritias.png",
+                    "image": "Kritias",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -234,7 +234,7 @@
                 },
                 {
                     "name": "Legion",
-                    "image": "Legion.png",
+                    "image": "Legion",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -242,7 +242,7 @@
                 },
                 {
                     "name": "Erda Spectrum",
-                    "image": "ErdaSpectrum.png",
+                    "image": "ErdaSpectrum",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -250,7 +250,7 @@
                 },
                 {
                     "name": "Hungry Muto",
-                    "image": "HungryMuto.png",
+                    "image": "HungryMuto",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -258,7 +258,7 @@
                 },
                 {
                     "name": "Midnight Chaser",
-                    "image": "MidnightChaser.png",
+                    "image": "MidnightChaser",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -266,7 +266,7 @@
                 },
                 {
                     "name": "Spirit Saviour",
-                    "image": "SpiritSaviour.png",
+                    "image": "SpiritSaviour",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -274,7 +274,7 @@
                 },
                 {
                     "name": "Ranheim Defense",
-                    "image": "RanheimDefense.png",
+                    "image": "RanheimDefense",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -282,7 +282,7 @@
                 },
                 {
                     "name": "Esfera Guardian",
-                    "image": "EsferaGuardian.png",
+                    "image": "EsferaGuardian",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -293,11 +293,11 @@
         },
         {
             "title": "Thursday Reset",
-            "image": "ThursdayReset.png",
+            "image": "ThursdayReset",
             "tasks": [
                 {
                     "name": "Guild Buff",
-                    "image": "GBuff.png",
+                    "image": "GBuff",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -305,7 +305,7 @@
                 },
                 {
                     "name": "Sharenian Culvert",
-                    "image": "Culvert.png",
+                    "image": "Culvert",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -313,7 +313,7 @@
                 },
                 {
                     "name": "Flag Race",
-                    "image": "Flag.png",
+                    "image": "Flag",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -321,7 +321,7 @@
                 },
                 {
                     "name": "Cache of Greed",
-                    "image": "CacheOfGreed.png",
+                    "image": "CacheOfGreed",
                     "done": false,
                     "enabled": true,
                     "type": "default",

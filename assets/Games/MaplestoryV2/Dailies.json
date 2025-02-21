@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "2.0",
     "imagePrefix": "Daily/",
     "infoTitle": "The daily tracker has been updated!",
     "infoText": "Welcome to the new version of the dailies tracker.\n A lot of effort was spent on it so I hope you enjoy it!\n\nUnfortunately existing data could not easily be moved over, so you will have to recreate your characters.\n\nIf you run into any issues or want to share feedback, feel free to contact me on discord username: starlines",
@@ -7,11 +7,11 @@
     "taskGroups": [
         {
             "title": "Daily Bosses",
-            "image": "DailyBosses.png",
+            "image": "DailyBosses",
             "tasks": [
                 {
                     "name": "Zakum",
-                    "image": "Zak.png",
+                    "image": "Zak",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -19,7 +19,7 @@
                 },
                 {
                     "name": "Horntail",
-                    "image": "HT.png",
+                    "image": "HT",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -27,7 +27,7 @@
                 },
                 {
                     "name": "Hilla",
-                    "image": "Hilla.png",
+                    "image": "Hilla",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -35,7 +35,7 @@
                 },
                 {
                     "name": "Crimson Queen",
-                    "image": "CrimsonQueen.png",
+                    "image": "CrimsonQueen",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -43,7 +43,7 @@
                 },
                 {
                     "name": "Pierre",
-                    "image": "Pierre.png",
+                    "image": "Pierre",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -51,7 +51,7 @@
                 },
                 {
                     "name": "Von Bon",
-                    "image": "VonBon.png",
+                    "image": "VonBon",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -59,7 +59,7 @@
                 },
                 {
                     "name": "Vellum",
-                    "image": "Vellum.png",
+                    "image": "Vellum",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -67,7 +67,7 @@
                 },
                 {
                     "name": "Von Leon",
-                    "image": "VL.png",
+                    "image": "VL",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -75,7 +75,7 @@
                 },
                 {
                     "name": "Arkarium",
-                    "image": "Ark.png",
+                    "image": "Ark",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -83,7 +83,7 @@
                 },
                 {
                     "name": "Magnus",
-                    "image": "Magnus.png",
+                    "image": "Magnus",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -91,7 +91,7 @@
                 },
                 {
                     "name": "Pink Bean",
-                    "image": "PB.png",
+                    "image": "PB",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -99,7 +99,7 @@
                 },
                 {
                     "name": "Mori Ranmaru",
-                    "image": "Ranmaru.png",
+                    "image": "Ranmaru",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -107,7 +107,7 @@
                 },
                 {
                     "name": "Papulatus",
-                    "image": "Papulatus.png",
+                    "image": "Papulatus",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -115,7 +115,7 @@
                 },
                 {
                     "name": "Gollux",
-                    "image": "Gollux.png",
+                    "image": "Gollux",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -123,7 +123,7 @@
                 },
                 {
                     "name": "OMNI-CLN",
-                    "image": "OMNI-CLN.png",
+                    "image": "OMNI-CLN",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -134,11 +134,11 @@
         },
         {
             "title": "Daily Tasks",
-            "image": "DailyTasks.png",
+            "image": "DailyTasks",
             "tasks": [
                 {
                     "name": "Monster Park Regular",
-                    "image": "MP.png",
+                    "image": "MP",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -146,7 +146,7 @@
                 },
                 {
                     "name": "Monster Park Extreme",
-                    "image": "MPE.png",
+                    "image": "MPE",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -154,7 +154,7 @@
                 },
                 {
                     "name": "Ursus",
-                    "image": "Ursus.png",
+                    "image": "Ursus",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -162,7 +162,7 @@
                 },
                 {
                     "name": "Maple Tour",
-                    "image": "MapleTour.png",
+                    "image": "MapleTour",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -170,7 +170,7 @@
                 },
                 {
                     "name": "Daily Gift",
-                    "image": "DailyGift.png",
+                    "image": "DailyGift",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -178,7 +178,7 @@
                 },
                 {
                     "name": "Commerci",
-                    "image": "Commerci.png",
+                    "image": "Commerci",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -186,7 +186,7 @@
                 },
                 {
                     "name": "Phantom Forest",
-                    "image": "PhantomForest.png",
+                    "image": "PhantomForest",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -194,7 +194,7 @@
                 },
                 {
                     "name": "Yu Garden",
-                    "image": "YuGarden.png",
+                    "image": "YuGarden",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -205,11 +205,11 @@
         },
         {
             "title": "Arcane & Grandis Dailies",
-            "image": "DailySymbols.png",
+            "image": "DailySymbols",
             "tasks": [
                 {
                     "name": "Vanishing Journey",
-                    "image": "VJ.png",
+                    "image": "VJ",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -217,7 +217,7 @@
                 },
                 {
                     "name": "Chu Chu",
-                    "image": "ChuChu.png",
+                    "image": "ChuChu",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -225,7 +225,7 @@
                 },
                 {
                     "name": "Lachelein",
-                    "image": "Lachelein.png",
+                    "image": "Lachelein",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -233,7 +233,7 @@
                 },
                 {
                     "name": "Arcana",
-                    "image": "Arcana.png",
+                    "image": "Arcana",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -241,7 +241,7 @@
                 },
                 {
                     "name": "Morass",
-                    "image": "Morass.png",
+                    "image": "Morass",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -249,7 +249,7 @@
                 },
                 {
                     "name": "Esfera",
-                    "image": "Esfera.png",
+                    "image": "Esfera",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -257,7 +257,7 @@
                 },
                 {
                     "name": "Moonbridge",
-                    "image": "Moonbridge.png",
+                    "image": "Moonbridge",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -265,7 +265,7 @@
                 },
                 {
                     "name": "Labyrinth of Suffering",
-                    "image": "LoS.png",
+                    "image": "LoS",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -273,7 +273,7 @@
                 },
                 {
                     "name": "Limina",
-                    "image": "Limina.png",
+                    "image": "Limina",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -281,7 +281,7 @@
                 },
                 {
                     "name": "Cernium",
-                    "image": "Cernium.png",
+                    "image": "Cernium",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -289,7 +289,7 @@
                 },
                 {
                     "name": "Arcus",
-                    "image": "Arcus.png",
+                    "image": "Arcus",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -297,7 +297,7 @@
                 },
                 {
                     "name": "Odium",
-                    "image": "Odium.png",
+                    "image": "Odium",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -305,7 +305,7 @@
                 },
                 {
                     "name": "Shangri-La",
-                    "image": "ShangriLa.png",
+                    "image": "ShangriLa",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -313,7 +313,7 @@
                 },
                 {
                     "name": "Arteria",
-                    "image": "Arteria.png",
+                    "image": "Arteria",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -321,7 +321,7 @@
                 },
                 {
                     "name": "Carcion",
-                    "image": "Carcion.png",
+                    "image": "Carcion",
                     "done": false,
                     "enabled": true,
                     "type": "default",
@@ -329,7 +329,7 @@
                 },
                 {
                     "name": "Erda's Request",
-                    "image": "ErdasRequest.png",
+                    "image": "ErdasRequest",
                     "done": false,
                     "enabled": true,
                     "type": "default",
