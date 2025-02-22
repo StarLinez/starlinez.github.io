@@ -1,5 +1,5 @@
 {
-    "version": "2.0",
+    "version": "2.1",
     "imagePrefix": "Weekly/",
     "infoTitle": "The weekly tracker has been updated!",
     "infoText": "Welcome to the new version of the weeklies tracker.\n A lot of effort was spent on it so I hope you enjoy it!\n\nUnfortunately existing data could not easily be moved over, so you will have to reconfigure everything.\n\nIf you run into any issues or want to share feedback, feel free to contact me on discord username: starlines\n\nYou can still view the old version for about a week incase you want to move over progress of the last week: starlinez.github.io/games/maplestory/oldweeklies",
@@ -192,6 +192,14 @@
                     "enabled": true,
                     "type": "default",
                     "dispCon": "true"
+                },
+                {
+                    "name": "Limbo",
+                    "image": "Limbo",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
                 }
             ],
             "allDisabled": false
@@ -322,6 +330,14 @@
                 {
                     "name": "Cache of Greed",
                     "image": "CacheOfGreed",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Epic Dungeon",
+                    "image": "EpicDungeon",
                     "done": false,
                     "enabled": true,
                     "type": "default",
