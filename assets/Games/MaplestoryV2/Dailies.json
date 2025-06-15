@@ -1,5 +1,5 @@
 {
-    "version": "2.1",
+    "version": "2.2",
     "imagePrefix": "Daily/",
     "infoTitle": "The daily tracker has been updated!",
     "infoText": "Welcome to the new version of the dailies tracker.\n A lot of effort was spent on it so I hope you enjoy it!\n\nUnfortunately existing data could not easily be moved over, so you will have to recreate your characters.\n\nIf you run into any issues or want to share feedback, feel free to contact me on discord username: starlines",
@@ -139,14 +139,6 @@
                 {
                     "name": "Monster Park Regular",
                     "image": "MP",
-                    "done": false,
-                    "enabled": true,
-                    "type": "default",
-                    "dispCon": "true"
-                },
-                {
-                    "name": "Monster Park Extreme",
-                    "image": "MPE",
                     "done": false,
                     "enabled": true,
                     "type": "default",
