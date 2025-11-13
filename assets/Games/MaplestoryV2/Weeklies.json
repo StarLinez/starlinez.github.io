@@ -1,9 +1,9 @@
 {
-    "version": "2.2",
+    "version": "3.0",
     "imagePrefix": "Weekly/",
     "infoTitle": "The weekly tracker has been updated!",
-    "infoText": "Welcome to the new version of the weeklies tracker.\n A lot of effort was spent on it so I hope you enjoy it!\n\nUnfortunately existing data could not easily be moved over, so you will have to reconfigure everything.\n\nIf you run into any issues or want to share feedback, feel free to contact me on discord username: starlines\n\nYou can still view the old version for about a week incase you want to move over progress of the last week: starlinez.github.io/games/maplestory/oldweeklies",
-    "infoVisible": false,
+    "infoText": "Since the reset times have been unified, I shifted around some of the weeklies to follow similar categorization as the dailies. This could affect which weeklies you had disable or the order but any custom weeklies should have remained. \n\nIf you run into any issues or want to share feedback, feel free to contact me on discord username: starlines",
+    "infoVisible": true,
     "taskGroups": [
         {
             "title": "Weekly Bosses",
@@ -205,9 +205,57 @@
             "allDisabled": false
         },
         {
-            "title": "Monday Reset",
-            "image": "MondayReset",
+            "title": "Weekly Tasks",
+            "image": "WeeklyTasks",
             "tasks": [
+                {
+                    "name": "Guild Buff",
+                    "image": "GBuff",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Sharenian Culvert",
+                    "image": "Culvert",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Flag Race",
+                    "image": "Flag",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Cache of Greed",
+                    "image": "CacheOfGreed",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Epic Dungeon",
+                    "image": "EpicDungeon",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Monster Park Extreme",
+                    "image": "MPE",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
                 {
                     "name": "Scrapyard",
                     "image": "Scrapyard",
@@ -247,7 +295,14 @@
                     "enabled": true,
                     "type": "default",
                     "dispCon": "true"
-                },
+                }
+            ],
+            "allDisabled": false
+        },
+        {
+            "title": "Arcane Weeklies",
+            "image": "ArcaneWeeklies",
+            "tasks": [
                 {
                     "name": "Erda Spectrum",
                     "image": "ErdaSpectrum",
@@ -295,57 +350,10 @@
                     "enabled": true,
                     "type": "default",
                     "dispCon": "true"
-                }
-            ],
-            "allDisabled": false
-        },
-        {
-            "title": "Thursday Reset",
-            "image": "ThursdayReset",
-            "tasks": [
-                {
-                    "name": "Guild Buff",
-                    "image": "GBuff",
-                    "done": false,
-                    "enabled": true,
-                    "type": "default",
-                    "dispCon": "true"
                 },
                 {
-                    "name": "Sharenian Culvert",
-                    "image": "Culvert",
-                    "done": false,
-                    "enabled": true,
-                    "type": "default",
-                    "dispCon": "true"
-                },
-                {
-                    "name": "Flag Race",
-                    "image": "Flag",
-                    "done": false,
-                    "enabled": true,
-                    "type": "default",
-                    "dispCon": "true"
-                },
-                {
-                    "name": "Cache of Greed",
-                    "image": "CacheOfGreed",
-                    "done": false,
-                    "enabled": true,
-                    "type": "default",
-                    "dispCon": "true"
-                },
-                {
-                    "name": "Epic Dungeon",
-                    "image": "EpicDungeon",
-                    "done": false,
-                    "enabled": true,
-                    "type": "default",
-                    "dispCon": "true"
-                },
-                {
-                    "name": "Monster Park Extreme",
-                    "image": "MPE",
+                    "name": "Erda's Request",
+                    "image": "ErdasRequest",
                     "done": false,
                     "enabled": true,
                     "type": "default",
