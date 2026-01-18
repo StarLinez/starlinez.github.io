@@ -186,6 +186,14 @@
                     "dispCon": "true"
                 },
                 {
+                    "name": "First Adversary",
+                    "image": "FirstAdversary",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
                     "name": "Kaling",
                     "image": "Kaling",
                     "done": false,
@@ -196,6 +204,14 @@
                 {
                     "name": "Limbo",
                     "image": "Limbo",
+                    "done": false,
+                    "enabled": true,
+                    "type": "default",
+                    "dispCon": "true"
+                },
+                {
+                    "name": "Baldrix",
+                    "image": "Baldrix",
                     "done": false,
                     "enabled": true,
                     "type": "default",
