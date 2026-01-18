@@ -3,7 +3,7 @@
     "imagePrefix": "Weekly/",
     "infoTitle": "The weekly tracker has been updated!",
     "infoText": "Since the reset times have been unified, I shifted around some of the weeklies to follow similar categorization as the dailies. This could affect which weeklies you had disable or the order but any custom weeklies should have remained. \n\nIf you run into any issues or want to share feedback, feel free to contact me on discord username: starlines",
-    "infoVisible": true,
+    "infoVisible": false,
     "taskGroups": [
         {
             "title": "Weekly Bosses",
